@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  <a href="https://UDDITwork.github.io/QUIZ-APP/">
     QuizApp
   </a>
 </h1>
@@ -64,8 +64,8 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+QuizApp is built and maintained by [UDDIT](https://UDDITwork.github.io).
 
 ## License
 
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license](https://github.com/UDDITwork/QUIZ-APP/blob/master/LICENSE).
