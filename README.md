@@ -33,7 +33,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
+git clone https://github.com/UDDITwork/QUIZ-APP.git
 cd quiz-app
 ```
 
